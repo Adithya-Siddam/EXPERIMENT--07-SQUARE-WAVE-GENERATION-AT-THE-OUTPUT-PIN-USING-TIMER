@@ -376,49 +376,49 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION:
-## FOR PULSE AT 3600:
+## FOR DUTY CYCLE AT 50%:
 
 ![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/5148211e-50a7-4cc5-b79d-cef9455bfa5a)
 
 
-**TON = 1.85**
+**TON = 1.85 ms**
 
-**TOFF= 1.85**
+**TOFF= 1.85 ms**
 
-**TOTAL TIME = 3.7**
+**TOTAL TIME = 3.7 ms**
 
-**Duty Cycle = TON /(TOTAL TIME) * 100 = 50 percent.**
+**Duty Cycle = TON /(TOTAL TIME) * 100 = 50%.**
 
 **Frequency = 1 / (Total Time) = 270 Hz**
 
-## FOR PULSE AT 4320:
+## FOR DUTY CYCLE AT 60%:
 
 ![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/1aa0a9de-f132-4fd3-b9d5-8b46316f1973)
 
 
-**TON = 2.25**
+**TON = 2.25 ms**
 
-**TOFF= 1.45**
+**TOFF= 1.45 ms**
 
-**TOTAL TIME = 3.7**
+**TOTAL TIME = 3.7 ms**
 
-**Duty Cycle = TON / (TOTAL TIME) * 100 = 60 percent.**
+**Duty Cycle = TON / (TOTAL TIME) * 100 = 60%.**
 
 **FREQUENCY = 1/(TOTAL TIME) = 270 Hz**
 
 
-# FOR PULSE AT 5040: 
+# FOR DUTY CYCLE AT 70%: 
 
 ![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/718b6709-1065-4fd2-9855-e353fbf079cc)
 
 
-**TON = 2.6**
+**TON = 2.6 ms**
 
-**TOFF= 1.1**
+**TOFF= 1.1 ms**
 
-**TOTAL TIME = 3.7**
+**TOTAL TIME = 3.7 ms**
 
-**Duty Cycle = TON /(TOTAL TIME) * 100 = 70 percent.**
+**Duty Cycle = TON /(TOTAL TIME) * 100 = 70%.**
 
 **FREQUENCY = 1/(TOTAL TIME) = 270 Hz**
 
