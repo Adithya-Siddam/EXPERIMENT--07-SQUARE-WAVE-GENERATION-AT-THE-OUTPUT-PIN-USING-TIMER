@@ -381,22 +381,30 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/5148211e-50a7-4cc5-b79d-cef9455bfa5a)
 
 
-**TON = 1.85
-TOFF= 1.85
-TOTAL TIME = 3.7
-Duty Cycle = TON /(TOTAL TIME) * 100 = 50 percent.
-Frequency = 1 / (Total Time) = 270 Hz**
+**TON = 1.85**
+
+**TOFF= 1.85**
+
+**TOTAL TIME = 3.7**
+
+**Duty Cycle = TON /(TOTAL TIME) * 100 = 50 percent.**
+
+**Frequency = 1 / (Total Time) = 270 Hz**
 
 ## FOR PULSE AT 4320:
 
 ![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/1aa0a9de-f132-4fd3-b9d5-8b46316f1973)
 
 
-**TON = 2.25
-TOFF= 1.45
-TOTAL TIME = 3.7
-Duty Cycle = TON / (TOTAL TIME) * 100 = 60 percent.
-FREQUENCY = 1/(TOTAL TIME) = 270 Hz**
+**TON = 2.25**
+
+**TOFF= 1.45**
+
+**TOTAL TIME = 3.7**
+
+**Duty Cycle = TON / (TOTAL TIME) * 100 = 60 percent.**
+
+**FREQUENCY = 1/(TOTAL TIME) = 270 Hz**
 
 
 # FOR PULSE AT 5040: 
@@ -404,11 +412,15 @@ FREQUENCY = 1/(TOTAL TIME) = 270 Hz**
 ![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/718b6709-1065-4fd2-9855-e353fbf079cc)
 
 
-**TON = 2.6
-TOFF= 1.1
-TOTAL TIME = 3.7
-Duty Cycle = TON /(TOTAL TIME) * 100 = 70 percent.
-FREQUENCY = 1/(TOTAL TIME) = 270 Hz**
+**TON = 2.6**
+
+**TOFF= 1.1**
+
+**TOTAL TIME = 3.7**
+
+**Duty Cycle = TON /(TOTAL TIME) * 100 = 70 percent.**
+
+**FREQUENCY = 1/(TOTAL TIME) = 270 Hz**
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
