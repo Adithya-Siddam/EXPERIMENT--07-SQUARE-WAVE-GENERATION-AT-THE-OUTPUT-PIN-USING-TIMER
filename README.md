@@ -88,7 +88,7 @@ Step10. Double click on the the MCU part to open settings. Next to the Program F
 
  
 Step14. click on debug and simulate using simulation as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/b8efbfc2-f0c5-4106-8117-3a6e7ac87f6c)
+![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/3dc931f2-665f-4a58-af0f-741c3d0fb6b5)
 
 
  
@@ -378,7 +378,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## DUTY CYCLE AND FREQUENCY CALCULATION:
 ## FOR DUTY CYCLE AT 50%:
 
-![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/5148211e-50a7-4cc5-b79d-cef9455bfa5a)
+![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/0474c0d1-8f19-42a7-992f-b1251419918d)
 
 
 **TON = 1.85 ms**
@@ -393,7 +393,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## FOR DUTY CYCLE AT 60%:
 
-![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/1aa0a9de-f132-4fd3-b9d5-8b46316f1973)
+![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/2362731f-306a-4ee0-8e42-af758a066bcb)
 
 
 **TON = 2.25 ms**
@@ -409,7 +409,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 # FOR DUTY CYCLE AT 70%: 
 
-![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/718b6709-1065-4fd2-9855-e353fbf079cc)
+![image](https://github.com/Adithya-Siddam/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427248/5acf2e6a-0d8b-4352-9c2f-a3a100e21a91)
 
 
 **TON = 2.6 ms**
